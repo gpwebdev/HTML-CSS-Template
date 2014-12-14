@@ -5,12 +5,8 @@
 This is a paragraph **Everyone _must_ attend the meeting at 5 o'clock today.** [Visit GitHub!](www.github.com).
 
 * Item
-* Item
-* Item
-
-- Item
-- Item
-- Item
+* list two
+* llist three
 
 Check out this neat program I wrote:
 
