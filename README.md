@@ -2,9 +2,7 @@
 
 ### FontAwesome
 
-FontAwesome is included in this package.
-
-You can insert an icon using the following html.
+FontAwesome is included in this package. You can insert an icon using the following html.
 
 ```
 <i class="fa fa-file"></i>
