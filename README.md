@@ -1,7 +1,14 @@
 # HTML/CSS Core Template
 
 ### FontAwesome
+
 ### Sticky Footer
+You must change these two classes.
+```
+.wrapper {margin: 0 auto -40px;}
+.footer_container, .push {height: 40px;}
+```
+
 ### WebFonts
 * Aller
 * Angelina
@@ -10,22 +17,3 @@
 * Questrial
 * Open Sans
 * Ubuntu
-
-
-* Item
-* list two
-* llist three
-
-Check out this neat program I wrote:
-
-```
-x = 0
-x = 2 + 2
-what is x
-```
-
-In the words of Abraham Lincoln:
-
-> Pardon my french
-
-Here's an idea: why don't we take `SuperiorProject` and turn it into `**Reasonable**Project`.
