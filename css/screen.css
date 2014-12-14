@@ -1,0 +1,101 @@
+/*############################################
+@author:	gpwebdev
+##############################################
+#### NOTES ####
+
+--------------------------------------------*/
+
+/*#### RESET ####*/
+* {padding:0;margin:0;}
+html{/*min-height:101%;*/}
+body {overflow-y:scroll;}
+img{ border:none;}
+h1, h2, h3, h4, h5, h6 {font-weight:normal;}
+
+/*#### STICKY FOOTER ####*/
+html, body {height: 100%;}
+.wrapper {
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	margin: 0 auto -40px;
+}
+.footer_container, .push {
+	height: 40px;
+}
+
+/*#### UTILITIES ####*/
+.clearboth {clear:both;}
+.bold {font-weight:bold !important;}
+.no_desk {display:none !important;}
+
+/*#### MARGINS AND PADDING ####*/
+.nomar {margin:0 !important;}
+.nomarleft {margin-left:0 !important;}
+.nomarright {margin-right:0 !important;}
+.marbot5 {margin-bottom:5px;}
+.marbot10 {margin-bottom:10px;}
+.marbot20 {margin-bottom:20px;}
+.marbot30 {margin-bottom:30px;}
+
+/*#### COLOURS ####*/
+.black {color:#000000;}
+
+/*#### FONTS AND SIZES ####*/
+.text {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	line-height:18px;
+	color:#333333;
+}
+.text a {
+	color:#333333;
+	text-decoration:none;
+}
+.text a:hover {
+	text-decoration:underline;
+}
+
+/*--------------------------------------------*/
+
+/*#### STRUCTURE ####*/
+
+body{
+    background:#fff;
+}
+.container {
+	width:980px;
+	margin:0 auto;
+}
+/*#### HEADER ####*/
+.logo {
+	display:block;
+	width:193px;
+	height:75px;
+}
+/*#### NAVIGATION ####*/
+.main_nav {
+	
+}
+.main_nav li{
+	list-style:none;
+	float:left;
+}
+.main_nav li a.menu {
+	display:block;
+	text-decoration:none;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	line-height:18px;
+	color:#333333;
+}
+.main_nav li.active a.menu {
+}
+.main_nav li:hover a.menu {
+}
+.sub_nav {
+	display:none;
+}
+/*#### FOOTER ####*/
+
+/*#### CONTENT ####*/
