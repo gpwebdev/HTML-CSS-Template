@@ -1,7 +1,7 @@
-# webtest h1
+# HTML/CSS Core Template
 
-## webtest h2
-
+### FontAwesome
+This template includes the font awesome library
 This is a paragraph **Everyone _must_ attend the meeting at 5 o'clock today.** [Visit GitHub!](www.github.com).
 
 * Item
